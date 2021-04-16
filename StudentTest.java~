@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class StudentTest
+{
+  public static void main(String[] args)
+  {
+    Student myStudent = new Student("07//2018");
+    
+    //add a display and a input function for the information
+    Scanner input = new Scanner(System.in);
+  }

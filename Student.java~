@@ -1,0 +1,22 @@
+
+
+
+Public class Student Extends Personnel
+{
+ // Declare instance variables.
+  Private Double GPA;
+  Private String Program;
+  Private Integer Credits;
+  Private String Registration;
+  Private String Degree;
+  
+ Personnel(String firstName, String lastName, String SSN, String RegDate)Throws Exception
+ {
+   super(firstName,LastName, SSN);
+   this.Registration = RegDate
+ }
+ 
+//add getters and setter and the display
+
+}
+ 
